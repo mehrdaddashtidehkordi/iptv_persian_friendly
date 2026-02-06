@@ -6,10 +6,6 @@ https://late-sky-0e1a.zahsytwdtjgjhasxby.workers.dev/?url=https://m3u.iranvids.c
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
 #EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (720p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
-#EXTINF:-1 tvg-id="9Gem.au@Sydney" tvg-logo="https://i.imgur.com/cwLzqaw.png" group-title="Entertainment",9Gem (720p) [Geo-blocked]
-https://9now-livestreams.akamaized.net/hls/live/2008311/gem-syd/master.m3u8
-#EXTINF:-1 tvg-id="AngerManagementChannel.us@SD" tvg-logo="https://i.imgur.com/VXZgrNy.png" group-title="Education",Anger Management
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/655ca57e4261ca00080b3a04/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c7950-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3058913d-2c94-48ef-9802-0dd55d2f6591
 #EXTINF:-1 tvg-id="GEM24B.tr@SD" tvg-logo="https://i.imgur.com/8LgdPst.png" group-title="Music",GEM 24B (1080p)
 http://66.102.120.18:8000/play/a044/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Movies",GEM Bollywood
@@ -78,28 +74,12 @@ http://116.90.120.152:8000/play/a0jg/index.m3u8
 http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyChannel.us@East" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (720p)
 https://fl31.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel Latin America (1080p)
-http://201.230.121.186:8000/play/a0fb/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannelLatinAmerica.ar@PanregionalHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" group-title="Animation;Kids",Disney Channel Latin America Panregional HD (1080p)
-http://201.217.246.177:8000/play/a02r/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_INTERNATIONAL_HD/images/LOGO_HD/image.png" group-title="Kids",Disney International HD (1080p)
-http://116.90.120.152:8000/play/a0hp/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJr.fr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" group-title="Kids",Disney Jr.
-http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJr.tr@SD" tvg-logo="https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png" group-title="Animation;Kids",Disney Jr. (1080p) [Geo-blocked]
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 #EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DISNEY_JUNIOR/images/LOGO_HD/image.png" group-title="Kids",Disney Junior (576p)
 http://116.90.120.152:8000/play/a0gu/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png" group-title="Kids",Disney Junior East
-https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
 #EXTINF:-1 tvg-id="DisneyXD.us@East" tvg-logo="https://i.postimg.cc/MKNssTyj/disneyxd.png" group-title="Kids",Disney XD (720p)
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b213444-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=fda1fa47-8519-4bbe-89e7-e4541c5d325d
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc868b90-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=04abe4a3-29f5-485d-a268-9b5b34f9fdb0
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Telenovela ZDF
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb5d043a461406ffe3fb2de/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84af8ae5-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2110f9dc-f7e7-417c-84ec-63f379b710b9
 #EXTINF:-1 tvg-id="ZDF.de@SD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF (720p) [Geo-blocked]
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-id="ZDF.de@HD" tvg-logo="https://i.imgur.com/rtLb6m9.png" group-title="Undefined",ZDF HD (720p)
@@ -114,16 +94,6 @@ https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
 #EXTINF:-1 tvg-id="BeachTVMyrtleBeachTheGrandStrand.us@SD" tvg-logo="https://i.imgur.com/aLYz7Bv.png" group-title="Travel",Beach TV Myrtle Beach & The Grand Strand (720p)
 http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
-#EXTINF:-1 tvg-id="BelRTL.be@SD" tvg-logo="https://i.imgur.com/0DUprIW.png" group-title="Music",Bel RTL (1080p)
-https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CBC Heartland (1080p) [Geo-blocked]
-https://amagi-streams.akamaized.net/hls/live/2113391/cbcheartland/master.m3u8
-#EXTINF:-1 tvg-id="Heartland.us@Eastern" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland
-https://hls-live-media-gc.cdn01.net/mpegts/232076_1278943/k7NorBrWxVGqpF2GcaB7Ow/1760757747/media_mpegts_0.m3u8
-#EXTINF:-1 tvg-id="Heartland.us@Web" tvg-logo="https://i.imgur.com/djCq2Z5.png" group-title="Entertainment",Heartland
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61f07513227feb00073ee6bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c291888-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4c0b4f02-0b37-467a-87a8-5f605cce8cba
-#EXTINF:-1 tvg-id="Portlandia.us@SD" tvg-logo="https://i.imgur.com/I4KDvu9.png" group-title="Undefined",Portlandia
-https://amc-portlandia-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTL.de@SD" tvg-logo="https://i.imgur.com/94K94k2.png" group-title="Undefined",RTL
 https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
 #EXTINF:-1 tvg-id="RTL.hu@SD" tvg-logo="https://i.imgur.com/ruRshE1.png" group-title="Undefined",RTL (1080p)
@@ -152,8 +122,6 @@ http://46.149.191.217:9005/play/a01t
 https://strm.hdtvizlecanli.com/live/rtl.m3u8
 #EXTINF:-1 tvg-id="RTLKetto.hu@SD" tvg-logo="https://i.imgur.com/IVv0qrI.png" group-title="Undefined",RTL Ketto (1080p)
 http://46.149.191.217:9005/play/a01r
-#EXTINF:-1 tvg-id="RTLWebRadioTV.lu@SD" tvg-logo="https://i.imgur.com/qyc8LsE.png" group-title="General",RTL Radio Web TV (1080p)
-https://rtlradio-streaming.rtl.lu/rtlradiowebtv/smil:rtlradiowebtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RTLSuper.de@SD" tvg-logo="https://i.imgur.com/KbdK8t9.png" group-title="Undefined",RTL Super
 https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
 #EXTINF:-1 tvg-id="TodayRadio.lu@SD" tvg-logo="https://i.imgur.com/O1c6wpt.png" group-title="Music",RTL Today Radio (720p)
@@ -170,12 +138,6 @@ https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8
 https://raw.githubusercontent.com/Sibprod/streams/main/ressources/dm/py/hls/rtl2.m3u8
 #EXTINF:-1 tvg-id="RTL9.lu@SD" tvg-logo="https://i.imgur.com/nFqjVNW.png" group-title="Entertainment",RTL9
 https://viamotionhsi.netplus.ch/live/eds/rtl9/browser-dash/rtl9.mpd
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Teenage Mutant Ninja Turtles Italy (720p)
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62619405c733e8000732d1fe/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc868b95-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b2ee5356-efd5-40b6-a90d-5e5fdd74abb1
-#EXTINF:-1 tvg-id="TotallyTurtles.us@Austria" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Totally Turtles
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d6792bd6be2998ad0ccce30/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b215b52-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5daca1df-3fee-4d6a-bb51-db90cf28ee93
 #EXTINF:-1 tvg-id="TotallyTurtles.us@Canada" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Totally Turtles
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e95265c9fd030007268fb9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e91-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=46f7cece-d4f5-4869-a9e4-bba83d8e7e96
 #EXTINF:-1 tvg-id="TotallyTurtles.us@Germany" tvg-logo="https://i.imgur.com/1gIpagY.png" group-title="Kids",Totally Turtles
@@ -186,8 +148,6 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://kikageohls.akamaized.net/hls/live/2022693/livetvkika_de/master.m3u8
 #EXTINF:-1 tvg-id="KiKA.de@HD" tvg-logo="https://i.imgur.com/vZdNp5S.png" group-title="Kids",KiKA HD
 https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
-#EXTINF:-1 tvg-id="CBCTDT.ca@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CBCT-DT_2017.svg/512px-CBCT-DT_2017.svg.png" group-title="General",CBC Prince Edward Island (CBCT-DT) (720p) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
 #EXTINF:-1 tvg-id="PersianaCinema.fr@SD" tvg-logo="https://i.imgur.com/hgIro9r.png" group-title="Movies",Persiana Cinema
 https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
