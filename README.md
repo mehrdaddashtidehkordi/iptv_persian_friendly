@@ -1,15 +1,29 @@
-**
-لیست آپدیت‌شده M3U8  +   نسخه فقط لینک‌های قابل پخش مستقیم
-**
-updated 16.05.2026
+Persian & International IPTV Playlist
 
-Persian / Iranian IPTV Channels (Alphabetical)
+A curated M3U8 playlist containing Persian, Iranian, and selected international IPTV channels.
+
+This playlist keeps the original international channels, updates known outdated stream URLs where possible, and adds additional Persian/Iranian non-religious channels at the end of the list.
+
+Playlist
+complete_updated_channels_all_international_kept.m3u8
+Features
+Persian and Iranian TV channels
+International channels from the original source list
+Updated stream URLs where newer public sources were available
+Added Persian/Iranian non-religious channels not present in the original list
+M3U8 format compatible with most IPTV players
+Ready to use in VLC, IPTV Smarters, TiviMate, OTT Navigator, Kodi, and similar players
+Important Note
+
+Streams are collected and updated from publicly available sources. Availability may vary depending on region, player compatibility, CDN changes, server status, or temporary outages.
+
+Some channels may be geo-blocked or may stop working without notice.
+
+This playlist is provided as-is and does not guarantee 100% uptime for every stream.
+
+Channel List
+Persian / Iranian Channels
 BBC Persian
-Beach TV Myrtle Beach & The Grand Strand
-Disney Channel
-Disney Jr.
-Disney Junior
-Disney XD
 GEM 24B
 GEM Bollywood
 GEM Classic
@@ -34,8 +48,6 @@ GEM Rubix Plus
 GEM Series
 GEM Series Plus
 GEM TV+
-Gem Shopping Network
-Gemini Movies
 Iran International
 IRIB UHD
 IRIB1
@@ -44,7 +56,6 @@ IRIB3
 IRIB4
 IRIB5 Tehran TV
 ITV Persian Music
-KiKA
 MBC Persia
 Manoto TV
 Persiana Cinema
@@ -72,6 +83,23 @@ Persiana Travel
 Persiana Turkiye
 Persiana Vibe
 PMC Royale
+Added Persian / Iranian Non-Religious Channels
+Andisheh TV
+Channel One TV
+KayhanTV
+Payam Javan TV
+Tapesh TV
+VOA Farsi
+YourTime TV
+International Channels Kept From Original List
+Beach TV Myrtle Beach & The Grand Strand
+Disney Channel
+Disney Jr.
+Disney Junior
+Disney XD
+Gem Shopping Network
+Gemini Movies
+KiKA
 RTL
 RTL 102.5 Best
 RTL 102.5 Bro&Sis
@@ -87,12 +115,10 @@ RTL Ketto
 RTL Super
 RTL Télé Lëtzebuerg
 RTL Today Radio
-RTL Twee
 RTL Zwei HD
 RTL-TVI
 RTL2
 RTL9
-Tehran TV
 Today Radio
 Totally Turtles
 ZDF
@@ -101,3 +127,42 @@ ZDFinfo
 ZDFinfo HD
 ZDFneo
 ZDFneo HD
+Usage
+VLC
+Open VLC Media Player.
+Go to Media > Open Network Stream.
+Paste the playlist URL or open the local .m3u8 file.
+Click Play.
+IPTV Players
+
+Import the .m3u8 file or playlist URL into your IPTV player of choice.
+
+Recommended players:
+
+VLC
+TiviMate
+IPTV Smarters
+OTT Navigator
+Kodi
+Perfect Player
+Disclaimer
+
+This repository does not host or retransmit any TV channels or video streams.
+All links point to publicly available third-party sources.
+
+If you own rights to any stream and want it removed, please open an issue or contact the repository maintainer.
+
+Update Policy
+
+Streams may change frequently. Broken or outdated links can be reported through GitHub issues.
+
+When reporting a broken stream, please include:
+
+Channel name
+Current URL
+Your country or region
+IPTV player used
+Error message, if available
+License
+
+This playlist is provided for educational and personal use only.
